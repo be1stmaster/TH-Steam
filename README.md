@@ -27,7 +27,7 @@ Script นี้ สามารถทำงานผ่านเบราเซ
 
 ภาพตัวอย่าง
 -------------------
-![script screenshot](http://be1st.blacksuit.info/files/steam/script/ScreenShot-Script.jpg)
+![script screenshot](http://be1st.blacksuit.info/files/steam/script/ScreenShot-Script.png)
 
 ----------
 
