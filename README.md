@@ -1,4 +1,4 @@
-# [Thai] Autorun Queue for Steam
+# [TH] Auto Skip Queue for STEAM
 <b>by Be1st</b></br>
 
 คำอธิบาย
@@ -27,7 +27,7 @@ Script นี้ สามารถทำงานผ่านเบราเซ
 
 ภาพตัวอย่าง
 -------------------
-![script screenshot](http://be1st.blacksuit.info/files/steam/script/ScreenShot-Script.png)
+![script screenshot](http://be1st.blacksuit.info/files/steam/script/ScreenShot.png)
 
 ----------
 
