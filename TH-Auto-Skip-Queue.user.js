@@ -19,7 +19,7 @@ var minTime = 500;
 
 if(type=="fast"){
     if ($('div.discover_queue_empty_refresh_btn').length) {
-        $( "<div class='autoQueueBox' align='center'><h2>[TH] Auto Skip Queue สำหรับ Steam</h2></br>by <b><a href='http://steamcommunity.com/profiles/76561198064167413'>Be1st</a></b><div class='discover_queue_empty winter_sale' style=''><div class='discover_queue_empty_refresh_btn'><span class='btnv6_lightblue_blue btn_medium' id='instant_queue_btn'><span>ข้าม 3 คิว ทันที <b>คลิก</b> &gt;&gt;</span></span></div><div class='discovery_queue_winter_sale_where_trading_cards'>คุณคิดว่า Script นี้มีประโยชน์สำหรับคุณมากมั้ย ? </br><a href='https://steamcommunity.com/tradeoffer/new/?partner=103901685&token=CWIx_60X'><b>บริจาค</b></a> การ์ดซ้ำๆ ที่คุณไม่ได้ใช้ หรือของ DotA 2 มาให้ผมสิ, ขอบคุณมากครับ!</div>" ).insertBefore( ".discovery_queue_apps" );
+        $( "<div class='autoQueueBox' align='center'><a href='http://steamcommunity.com/profiles/76561198064167413'><img src='http://be1st.blacksuit.info/files/steam/script/Banner-Script.png' alt='click ไปยัง Profile'></a><div class='discover_queue_empty winter_sale' style=''><div class='discover_queue_empty_refresh_btn'><span class='btnv6_lightblue_blue btn_medium' id='instant_queue_btn'><span>ข้าม 3 คิว ทันที <b>คลิก</b> &gt;&gt;</span></span></div><div class='discovery_queue_winter_sale_where_trading_cards'>คุณคิดว่า Script นี้มีประโยชน์สำหรับคุณมากมั้ย ? </br><a href='https://steamcommunity.com/tradeoffer/new/?partner=103901685&token=CWIx_60X'><b>บริจาค</b></a> การ์ดซ้ำๆ ที่คุณไม่ได้ใช้ หรือของ DotA 2 มาให้ผมสิ, ขอบคุณมากครับ!</div>" ).insertBefore( ".discovery_queue_apps" );
         $( "#instant_queue_btn" ).click(function() {
             GenerateQueue(0);
         });
