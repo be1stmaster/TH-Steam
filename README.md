@@ -33,7 +33,7 @@ Script นี้ สามารถทำงานผ่านเบราเซ
 
 กลุ่มของเรา
 -------------------
-Facebook Group: [Thailand] [(Steam) Events and Trading Cards](https://www.facebook.com/groups/steam.etc/)
+Facebook Group: [Thailand] (Steam) Events and Trading Cards(https://www.facebook.com/groups/steam.etc/)
 
 การบริจาค
 -------------------
