@@ -1,5 +1,5 @@
 # [TH] Auto Skip Queue for STEAM
-<b>Special Thank: mig4ng and xPaw</b>Translate to Thai by Be1stMaster</br>
+<b>Special Thank: mig4ng and xPaw</b> Translate to Thai by Be1stMaster</br>
 
 คำอธิบาย
 -------------------
