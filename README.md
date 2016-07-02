@@ -31,10 +31,12 @@ Script นี้ สามารถทำงานผ่านเบราเซ
 
 ----------
 
+กลุ่มของเรา
+-------------------
+Facebook Group: [Thailand] [(Steam) Events and Trading Cards](https://www.facebook.com/groups/steam.etc/)
 
 การบริจาค
 -------------------
-
 ถ้าคุณมีของในเกมต่างๆ และการ์ดเกมที่ซ้ำ เหลือ หรือไม่ได้ใช้งาน สามารถบริจาคมาให้ผมได้ [นี่คือลิงค์ Trade offer ของผม](https://steamcommunity.com/tradeoffer/new/?partner=103901685&token=CWIx_60X)
 
 ----------
