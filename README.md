@@ -1,5 +1,5 @@
 # [TH] Auto Skip Queue for STEAM
-<b>by Be1st</b></br>
+<b>Special Thank: mig4ng and xPaw</b>Translate to Thai by Be1stMaster</br>
 
 คำอธิบาย
 -------------------
@@ -27,7 +27,7 @@ Script นี้ สามารถทำงานผ่านเบราเซ
 
 ภาพตัวอย่าง
 -------------------
-![script screenshot](http://be1st.blacksuit.info/files/steam/script/ScreenShot.gif)
+![script screenshot](http://be1st.blacksuit.info/files/steam/script/ScreenShot-gif.gif)
 
 ----------
 
