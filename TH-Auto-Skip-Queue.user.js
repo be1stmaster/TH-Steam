@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         [TH] Auto Skip Queue สำหรับ Steam (by Be1st)
+// @name         [TH] Auto Skip Queue สำหรับ Steam
 // @namespace    https://github.com/be1stmaster/TH-Steam
-// @version      0.1
-// @description  Reminds you to check if you have cards to obtain by checking the queue steam arranged for you and auto completes it for you.
+// @version      0.2
+// @description  สคริปชุดนี้ถูกแปลเป็นภาษาไทย ซึ่ง Code ต้นฉบับมาจากคุณ xPaw และ mig4ng
 // @author       Be1st (กมลภพ หรั่งเจริญ)
 // @require      http://code.jquery.com/jquery-latest.js
 // @match        http://store.steampowered.com/*
@@ -19,7 +19,7 @@ var minTime = 500;
 
 if(type=="fast"){
     if ($('div.discover_queue_empty_refresh_btn').length) {
-        $( "<div class='autoQueueBox' align='center'><a href='http://steamcommunity.com/profiles/76561198064167413'><img src='http://be1st.blacksuit.info/files/steam/script/Banner-Script.png' alt='click ไปยัง Profile'></a><div class='discover_queue_empty winter_sale' style=''><div class='discover_queue_empty_refresh_btn'><span class='btnv6_lightblue_blue btn_medium' id='instant_queue_btn'><span>ข้าม 3 คิว ทันที <b>คลิก</b> &gt;&gt;</span></span></div><div class='discovery_queue_winter_sale_where_trading_cards'>คุณคิดว่า Script นี้มีประโยชน์สำหรับคุณมากมั้ย ? </br><a href='https://steamcommunity.com/tradeoffer/new/?partner=103901685&token=CWIx_60X'><b>บริจาค</b></a> การ์ดซ้ำๆ ที่คุณไม่ได้ใช้ หรือของ DotA 2 มาให้ผมสิ, ขอบคุณมากครับ!</div>" ).insertBefore( ".discovery_queue_apps" );
+        $( "<div class='autoQueueBox' align='center'><a href='http://steamcommunity.com/profiles/76561198064167413'><img src='http://be1st.blacksuit.info/files/steam/script/Banner-Script.png' alt='click ไปยัง Profile'></a><div class='discover_queue_empty winter_sale' style=''><div class='discover_queue_empty_refresh_btn'><span class='btnv6_lightblue_blue btn_medium' id='instant_queue_btn'><span>ข้าม 3 คิว ทันที <b>คลิก</b> &gt;&gt;</span></span></div><div class='discovery_queue_winter_sale_where_trading_cards' align='center'><h2>กลุ่มของพวกเรา</h2></br>Facebook Group: <a href='https://www.facebook.com/groups/steam.etc' target='_blank'><b>[Thailand] (Steam) Events and Trading Cards</b></a></br>Steam Group: <a href='http://steamcommunity.com/groups/TH-ETC' target='_blank'><b>[Thailand] Events and Trading Cards</b></a></div>" ).insertBefore( ".discovery_queue_apps" );
         $( "#instant_queue_btn" ).click(function() {
             GenerateQueue(0);
         });
