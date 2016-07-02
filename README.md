@@ -33,8 +33,8 @@ Script นี้ สามารถทำงานผ่านเบราเซ
 
 กลุ่มของเรา
 -------------------
-Facebook Group: [Thailand (Steam) Events and Trading Cards](https://www.facebook.com/groups/steam.etc)
-Steam Group: [Thailand Events and Trading Cards](http://steamcommunity.com/groups/TH-ETC)
+> - Facebook Group: [Thailand (Steam) Events and Trading Cards](https://www.facebook.com/groups/steam.etc)
+> - Steam Group: [Thailand Events and Trading Cards](http://steamcommunity.com/groups/TH-ETC)
 
 การบริจาค
 -------------------
