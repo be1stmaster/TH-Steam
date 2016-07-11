@@ -1,4 +1,5 @@
 ![script screenshot](https://img.shields.io/badge/Version-0.2-brightgreen.svg?style=flat)
+![script screenshot](https://img.shields.io/badge/Language-Thai-red.svg?style=flat)
 # [TH] Auto Skip Queue for STEAM
 <b>Special Thank: mig4ng and xPaw</b> Translate to Thai by Be1stMaster</br>
 
